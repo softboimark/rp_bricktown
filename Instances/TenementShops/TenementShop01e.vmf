@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7964"
-	"mapversion" "45"
+	"mapversion" "46"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "45"
+	"mapversion" "46"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -37,7 +37,7 @@ world
 			"uaxis" "[0.798635 0.601815 0 202.703] 0.25"
 			"vaxis" "[0.601815 -0.798635 0 412.388] 0.25"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -113,7 +113,7 @@ world
 			"uaxis" "[0.798635 0.601815 0 202.703] 0.25"
 			"vaxis" "[0.601815 -0.798635 0 412.388] 0.25"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -189,7 +189,7 @@ world
 			"uaxis" "[1 0.0174524 0 3.64605] 0.25"
 			"vaxis" "[0.0174524 -1 0 16.2628] 0.25"
 			"rotation" "0"
-			"lightmapscale" "64"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -233,12 +233,12 @@ world
 			"uaxis" "[-0.707107 0.707107 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
 		{
-			"color" "255 200 0"
+			"color" "0 252 153"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -254,7 +254,7 @@ world
 			"uaxis" "[1 0.0174524 0 3.64605] 0.25"
 			"vaxis" "[0.0174524 -1 0 16.2628] 0.25"
 			"rotation" "0"
-			"lightmapscale" "64"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -298,12 +298,12 @@ world
 			"uaxis" "[-0.707107 0.707107 0 -256] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
 		{
-			"color" "255 200 0"
+			"color" "0 228 125"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -319,7 +319,7 @@ world
 			"uaxis" "[1 0.0174524 0 3.64605] 0.25"
 			"vaxis" "[0.0174524 -1 0 16.2628] 0.25"
 			"rotation" "0"
-			"lightmapscale" "64"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -363,12 +363,12 @@ world
 			"uaxis" "[-0.707107 0.707107 0 -256] 0.25"
 			"vaxis" "[0 0 -1 64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
 		{
-			"color" "255 200 0"
+			"color" "0 136 229"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -384,7 +384,7 @@ world
 			"uaxis" "[1 0.0174524 0 3.64605] 0.25"
 			"vaxis" "[0.0174524 -1 0 16.2628] 0.25"
 			"rotation" "0"
-			"lightmapscale" "64"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -428,12 +428,12 @@ world
 			"uaxis" "[-0.707107 0.707107 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
 		{
-			"color" "255 200 0"
+			"color" "0 100 213"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -449,7 +449,7 @@ world
 			"uaxis" "[1 0.0174524 0 3.64605] 0.25"
 			"vaxis" "[0.0174524 -1 0 16.2628] 0.25"
 			"rotation" "0"
-			"lightmapscale" "64"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -493,12 +493,12 @@ world
 			"uaxis" "[0.707107 -0.707107 0 256] 0.25"
 			"vaxis" "[0 0 -1 96] 0.25"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
 		{
-			"color" "255 200 0"
+			"color" "0 140 249"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -514,7 +514,7 @@ world
 			"uaxis" "[1 0.0174524 0 3.64605] 0.25"
 			"vaxis" "[0.0174524 -1 0 16.2628] 0.25"
 			"rotation" "0"
-			"lightmapscale" "64"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -558,12 +558,12 @@ world
 			"uaxis" "[-0.707107 0.707107 0 0] 0.25"
 			"vaxis" "[0 0 -1 64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
 		{
-			"color" "255 200 0"
+			"color" "0 172 253"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -579,7 +579,7 @@ world
 			"uaxis" "[0.798635 0.601815 0 202.703] 0.25"
 			"vaxis" "[0.601815 -0.798635 0 412.388] 0.25"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -623,12 +623,12 @@ world
 			"uaxis" "[-0.707107 0.707107 0 0] 0.25"
 			"vaxis" "[0 0 -1 96] 0.25"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
 		{
-			"color" "255 200 0"
+			"color" "0 244 229"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7964"
-	"mapversion" "1"
+	"mapversion" "3"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,18 +14,18 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "128"
+	"nGridSpacing" "32"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "1"
+	"mapversion" "3"
 	"classname" "worldspawn"
-	"skyname" "sky_day01_01"
-	"maxpropscreenwidth" "-1"
-	"detailvbsp" "detail.vbsp"
 	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_day01_01"
 	solid
 	{
 		"id" "65"
@@ -1062,23 +1062,23 @@ entity
 {
 	"id" "2861"
 	"classname" "info_overlay"
-	"angles" "0 27.6577 0"
+	"angles" "0 14.8104 0"
 	"BasisNormal" "0.882899 -0.469562 0.000160755"
-	"BasisOrigin" "1380 104 256.006"
+	"BasisOrigin" "1380 123.272 224.006"
 	"BasisU" "0.469562 0.882899 -4.91296e-05"
 	"BasisV" "-0.000118861 0.000118861 1"
 	"EndU" "1"
 	"EndV" "0"
 	"fademindist" "-1"
-	"material" "decals/decalposter007a"
+	"material" "cs_assault/assault_building_decal_01"
 	"sides" "119 120 84 83 48 47 46 82 118 117 81 45 44 80 116 115 79 43 42 78 114 113 77 41"
 	"StartU" "0"
 	"StartV" "1"
-	"uv0" "-258.515 -99.9761 0"
-	"uv1" "-258.503 100.001 0"
-	"uv2" "258.515 99.9761 0"
-	"uv3" "258.503 -100.001 0"
-	"origin" "1380 104 256.006"
+	"uv0" "-155.184 -99.9621 0"
+	"uv1" "-155.188 100.015 0"
+	"uv2" "155.184 99.9621 0"
+	"uv3" "155.188 -100.015 0"
+	"origin" "1380 123.272 224.006"
 	editor
 	{
 		"color" "80 150 225"

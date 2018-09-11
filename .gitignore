@@ -1,4 +1,7 @@
 *.bsp
+*.backup
 *.prt
 *.vmx
-*.log*.lin
+*.log
+*.lin
+*.vmf_autosave
