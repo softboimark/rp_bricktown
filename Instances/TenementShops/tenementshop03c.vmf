@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "7964"
-	"mapversion" "41"
+	"editorbuild" "8216"
+	"mapversion" "42"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "1"
+	"nGridSpacing" "128"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "41"
+	"mapversion" "42"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -2678,7 +2678,7 @@ entity
 	"angles" "0 270 0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"model" "models/props_windows/window_01_384.mdl"
+	"model" "models/props_windows/window_01_128.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "192 0 208"
@@ -2697,7 +2697,7 @@ entity
 	"angles" "0 270 0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"model" "models/props_windows/window_01_384.mdl"
+	"model" "models/props_windows/window_01_128.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "192 0 339"
@@ -2766,13 +2766,89 @@ entity
 		"logicalpos" "[0 0]"
 	}
 }
+entity
+{
+	"id" "81832"
+	"classname" "prop_static"
+	"angles" "0 270 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"model" "models/props_windows/window_01_128.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "64 0 208"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "81836"
+	"classname" "prop_static"
+	"angles" "0 270 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"model" "models/props_windows/window_01_128.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "64 0 339"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "81856"
+	"classname" "prop_static"
+	"angles" "0 270 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"model" "models/props_windows/window_01_128.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "320 0 208"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "81860"
+	"classname" "prop_static"
+	"angles" "0 270 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"model" "models/props_windows/window_01_128.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "320 0 339"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[455.142 -398.271 138.316]"
-		"look" "[453.782 -384.41 136.95]"
+		"position" "[95.5134 -260.693 252.857]"
+		"look" "[101.112 -247.877 252.368]"
 	}
 }
 cordon
