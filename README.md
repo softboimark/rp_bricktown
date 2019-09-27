@@ -1,11 +1,11 @@
-# Welcome to FrownTown.
+# Welcome to Bricktown.
 
 ## Context
-rp_FrownTown is inspired by the Garry's Mod DarkRP map "rp_downtown_v4c_v2", which is by large & by far the most popular Garry's Mod DarkRP map. 
+rp_bricktown is inspired by the Garry's Mod DarkRP map "rp_downtown_v4c_v2", which was by large & by far the most popular Garry's Mod DarkRP map. 
 
-Despite Downtown's popularity, the map has some glaring faults. It wasn't built using many best-practices in mind, has some odd inconsistincies, and suffers from poor optimization for a map of it's size and detail.
+Despite Downtown's popularity, the map has some glaring faults. It wasn't built using any best-practices, has many odd inconsistincies, and suffers from poor optimization for a map of it's size and detail.
 
-My solution is to build a derivative work from scratch, mostly preserving the layout while giving it a modern and coherent art-style.
+My solution is to build a derivative work from scratch, mostly preserving the layout while pretty much re-doing everything else.
 
 ## Map Edits & .VMF file.
 I invite people to fork the project & make their own versions!
