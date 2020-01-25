@@ -6,5 +6,4 @@
 *.lin
 *.vmf_autosave
 *.unpacked
-/InDev/*
 /autosave/*
