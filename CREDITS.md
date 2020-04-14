@@ -1,7 +1,7 @@
-#Map designed and built by:
+# Map designed and built by:
 Softboi Mark
 
-#Contributions from:
+# Contributions from:
 Joefu - Layout of PD
 Ajacks - Wall and Ceiling textures
 Gobanzo_Mon - Letter models
@@ -9,7 +9,7 @@ Gobanzo_Mon - Letter models
 # Special thanks to:
 The Fluffy Servers GMod Mapping Community
 
-#Uses content from the following Valve titles:
+# Uses content from the following Valve titles:
 Counter-Strike: Source
 Counter-Strike Global Offensive
 Half-Life 2: Episode 2
