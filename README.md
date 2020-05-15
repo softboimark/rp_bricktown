@@ -1,6 +1,6 @@
 # Welcome to Bricktown.
 
-## Description:
+## Description
 rp_bricktown is a Garry's Mod DarkRP map inspired by rp_downtown, and it's derivative work rp_downtown_v4c_v2, which was by large & by far the most popular map for the gamemode. 
 Despite rp_downtown_v4c_v2's popularity, the map has some glaring faults. It wasn't built using any best-practices, has many odd inconsistencies, and suffers from poor optimization for a map of it's size and detail.
 
