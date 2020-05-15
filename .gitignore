@@ -4,5 +4,6 @@
 *.vmx
 *.log
 *.lin
+*.nav
 *.vmf_autosave
 *.unpacked
