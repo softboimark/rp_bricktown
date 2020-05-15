@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_bricktown/doorframe_56_BaseColor"
+	$bumpmap "models/props_bricktown/doorframe_56_Normal"
+	$surfaceprop Wood
+}

@@ -6,9 +6,3 @@
 *.lin
 *.vmf_autosave
 *.unpacked
-*.nav
-/AutoSave/*
-/Publishing/*
-/SourceSDK Tools/*
-/materials/*
-/models/*

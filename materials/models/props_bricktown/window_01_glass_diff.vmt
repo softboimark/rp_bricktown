@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "D:/markb/Documents/City of Bricktown Development/materials/models/props_bricktown/window_01_glass_diff"
+	$bumpmap "D:/markb/Documents/City of Bricktown Development/materials/models/props_bricktown/window_01_glass_Normal"
+
+	$alphatest 1
+	$nocull 1
+}

@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_bricktown/bricktown_window_02_064_diffuse"
+	$bumpmap "models/props_bricktown/bricktown_window_02_064_normal"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.40 0.40 0.40]"
+	$envmapsaturation 0.5
+}

@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture "../../materials/models/props_bricktown/window_01_sill_exterior_BaseColor"
+	$bumpmap "../../materials/models/props_bricktown/window_01_sill_interior_Normal"
+
+	$phong 1
+	$phongfresnelranges "[0.2 0.5 3]"
+	$phongalbedotint 1
+	$phongexponent 5
+	$phongboost 19
+	$phongalbedoboost 170
+}
