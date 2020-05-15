@@ -10,8 +10,8 @@ Gobanzo_Mon - Letter models
 The Fluffy Servers GMod Mapping Community
 
 # Uses content from the following Valve titles:
-Counter-Strike: Source
-Counter-Strike Global Offensive
-Half-Life 2: Episode 2
+- Counter-Strike: Source
+- Counter-Strike Global Offensive
+- Half-Life 2: Episode 2
 
 Bricktown contains no original content from, but was heavily inspired by rp_downtown by ThePro, and it's derivatives.
